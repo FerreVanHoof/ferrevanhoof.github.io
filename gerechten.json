@@ -1,0 +1,83 @@
+[
+  {
+    "category": "Ontbijt",
+    "name": "Wentelteefjes met blauwe bessen",
+    "calories" : "190",
+    "ingredients": [
+      "2 eieren",
+      "1tl vanille extract",
+      "1tl kaneel",
+      "200 ml melk",
+      "4 sneetjes brood"
+    ]
+  },
+  {
+    "category": "Ontbijt",
+    "name": "Ananas & Mango smoothie",
+    "calories" : "240",
+    "ingredients": [
+      "150 ml kokosmelk",
+      "150 g ananas",
+      "8 blaadjes verse munt",
+      "100 g mango"
+    ]
+  },
+  {
+    "category": "Lunch",
+    "name": "Bruschetta met ricotta & pesto",
+    "calories" : "286",
+    "ingredients": [
+      "1 (bruin) stokbrood",
+      "250 g cherrytomaatjes",
+      "125 g groene pesto",
+      "2 el. olijfolie",
+      "150 g ricotta",
+      "handje verse basilicum"
+    ]
+  },
+  {
+    "category": "Lunch",
+    "name": "Vegetarische falafel wrap",
+    "calories" : "344",
+    "ingredients": [
+      "200 g falafelballetjes",
+      "2 volkoren wraps",
+      "1 tomaat",
+      "een halve komkommer",
+      "1 el citroensap",
+      "100 ml griekse yoghurt 0% vet",
+      "paar blaadjes verse munt",
+      "50 g gemengde sla",
+      "halve ui"
+    ]
+  },
+  {
+    "category": "Avondeten",
+    "name": "Pasta carbonara",
+    "calories" : "614",
+    "ingredients": [
+      "400 g spaghetti",
+      "250 g spekblokjes",
+      "2 tenen knoflook",
+      "125 g parmezaanse kaas",
+      "3 eieren",
+      "snufje peper en zout",
+      "*eventueel 4 takjes peterselie"
+    ]
+  },
+  {
+    "category": "Avondeten",
+    "name": "Orzo met spinazie en cherrytomaten",
+    "calories" : "569",
+    "ingredients": [
+      "170 g orzo",
+      "250 g cherrytomaten",
+      "300 g spinazie",
+      "2 tenen knoflook",
+      "1 Sjalot",
+      "50 g Grana padano-vlokken",
+      "2 tl paprikapoeder",
+      "10 g amandelschaafsel"
+    ]
+  }
+]
