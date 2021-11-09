@@ -1,0 +1,237 @@
+[
+  {
+    "genre": "Rock", 
+    "artists": [
+      { 
+        "name": "Avenged Sevenfold", 
+        "songs": [
+          {
+            "songname": "Hail To The King"
+          },
+          {
+            "songname": "Nightmare"
+          },
+          {
+            "songname": "Afterlife"
+          }
+          ]
+      },
+      { 
+        "name": "Iron Maiden", 
+        "songs": [
+          {
+            "songname": "The Trooper"
+          },
+          {
+            "songname": "Run To The Hills"
+          },
+          {
+            "songname": "Number Of The Beast"
+          }
+          ]
+      },
+      { 
+        "name": "AC/DC", 
+        "songs": [
+          {
+            "songname": "Thunderstruck"
+          },
+          {
+            "songname": "Back in Black"
+          },
+          {
+            "songname": "Highway To Hell"
+          }
+          ]
+      }
+      ]
+  },
+  {
+    "genre": "Pop", 
+    "artists": [
+      { 
+        "name": "Ed Sheeran", 
+        "songs": [
+          {
+            "songname": "Perfect"
+          },
+          {
+            "songname": "Shivers"
+          },
+          {
+            "songname": "Dive"
+          }
+          ]
+      },
+      { 
+        "name": "Billie Eilish", 
+        "songs": [
+          {
+            "songname": "Bad Guy"
+          },
+          {
+            "songname": "Happier Than Ever"
+          },
+          {
+            "songname": "Therefore I Am"
+          }
+          ]
+      },
+      { 
+        "name": "Bruno Mars", 
+        "songs": [
+          {
+            "songname": "Uptown Funk"
+          },
+          {
+            "songname": "Grenade"
+          },
+          {
+            "songname": "Skate"
+          }
+          ]
+      }
+      ]
+  },
+  {
+    "genre": "Rap", 
+    "artists": [
+      { 
+        "name": "NF", 
+        "songs": [
+          {
+            "songname": "NO NAME"
+          },
+          {
+            "songname": "LOST"
+          },
+          {
+            "songname": "Leave Me Alone"
+          }
+          ]
+      },
+      { 
+        "name": "DaBaby", 
+        "songs": [
+          {
+            "songname": "Vibez"
+          },
+          {
+            "songname": "Suge"
+          },
+          {
+            "songname": "Bop"
+          }
+          ]
+      },
+      { 
+        "name": "Eminem", 
+        "songs": [
+          {
+            "songname": "Rap God"
+          },
+          {
+            "songname": "Lose Yourself"
+          },
+          {
+            "songname": "Godzilla"
+          }
+          ]
+      }
+      ]
+  },
+  {
+    "genre": "Hardstyle", 
+    "artists": [
+      { 
+        "name": "Angerfist", 
+        "songs": [
+          {
+            "songname": "Creed Of Chaos"
+          },
+          {
+            "songname": "Bogota"
+          },
+          {
+            "songname": "Face My Style"
+          }
+          ]
+      },
+      { 
+        "name": "Act Of Rage", 
+        "songs": [
+          {
+            "songname": "RejectOfRage"
+          },
+          {
+            "songname": "Kicks Van Staal"
+          },
+          {
+            "songname": "Alpha State"
+          }
+          ]
+      },
+      { 
+        "name": "GPF", 
+        "songs": [
+          {
+            "songname": "Laddy Daddy Daddy"
+          },
+          {
+            "songname": "Spaghetti Love"
+          },
+          {
+            "songname": "Beastmode"
+          }
+          ]
+      }
+      ]
+  },
+  {
+    "genre": "Techno", 
+    "artists": [
+      { 
+        "name": "Charlotte de Witte", 
+        "songs": [
+          {
+            "songname": "Space Raiders"
+          },
+          {
+            "songname": "Wisdom"
+          },
+          {
+            "songname": "Doppler"
+          }
+          ]
+      },
+      { 
+        "name": "Amelie Lens", 
+        "songs": [
+          {
+            "songname": "Follow"
+          },
+          {
+            "songname": "In Silence"
+          },
+          {
+            "songname": "Adrenaline"
+          }
+          ]
+      },
+      { 
+        "name": "Klaus Veen", 
+        "songs": [
+          {
+            "songname": "Fietspomp"
+          },
+          {
+            "songname": "Poison"
+          },
+          {
+            "songname": "Smooth Arrangements"
+          }
+          ]
+      }
+      ]
+  }
+]
